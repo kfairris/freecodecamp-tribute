@@ -3,6 +3,8 @@ body {
     color: white;
     font-family: "Roboto", sans-serif;
     padding: 10px;
+    max-width: 800px;
+    margin: auto;
 }
 section {
     padding-left: 15px;
