@@ -1,0 +1,32 @@
+body {
+  background-color:red;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  padding: 10px;
+}
+section {
+  padding-left:15px;
+  padding-right:15px;
+}
+footer {
+  font-size:.75em;
+  text-align: center;
+}
+h1 {
+  font-family:'Anton', sans-serif;
+  font-size: 2em;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+img {
+  display: block;
+  height: auto;
+  width: 100%;
+  max-width:100%;
+  text-align: center;
+}
+a {
+  color:white;
+  font-weight: 700;
+}
